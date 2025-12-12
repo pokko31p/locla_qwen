@@ -1,0 +1,17 @@
+PySide6
+torch --index-url https://download.pytorch.org/whl/cu121
+torchvision --index-url https://download.pytorch.org/whl/cu121
+torchaudio --index-url https://download.pytorch.org/whl/cu121
+pillow
+requests
+beautifulsoup4
+pyaudio
+SpeechRecognition
+pyttsx3
+huggingface_hub
+pygments
+bitsandbytes
+auto-gptq
+optimum
+accelerate
+git+https://github.com/huggingface/transformers
