@@ -76,8 +76,8 @@ qwen-python/
 Скачай проект к себе на компьютер:
 
 ```bash
-git clone [https://github.com/TVOY_LOG/qwen-gemini-ui.git](https://github.com/TVOY_LOG/qwen-gemini-ui.git)
-cd qwen-gemini-ui
+git clone https://github.com/pokko31p/locla_qwen.git
+cd locla_qwen
 ```
 
 ### Шаг 2: Виртуальное окружение (Важно\!) 🐍
@@ -170,5 +170,6 @@ python main.py
 Разработано с любовью к Python и Open Source.
 Дизайн вдохновлен Google Gemini.
 Модель от Alibaba Cloud (Qwen).
+
 
 **Ставь ⭐, если проект залетел\!**
